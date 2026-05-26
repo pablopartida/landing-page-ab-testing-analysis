@@ -1,6 +1,6 @@
 # 🧪 Landing Page A/B Testing Analysis
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](TU_LINK_COLAB_AQUI)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pablopartida/landing-page-ab-testing-analysis/blob/main/notebook/landing-ab-testing-analysis.ipynb)
 
 This project analyzes an **A/B experiment on an ecommerce landing page** to determine which version generates better business outcomes in terms of **conversion rate** and **average customer spending**.
 
